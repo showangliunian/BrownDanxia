@@ -1,2 +1,2 @@
-# BrownDanxia
-This is a QQ group chat third-party chat robot.
+# 咖啡色的丹霞机器人
+这是一个QQ群里第三方聊天机器人。
